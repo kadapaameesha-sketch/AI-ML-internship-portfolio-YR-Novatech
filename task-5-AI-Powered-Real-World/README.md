@@ -16,4 +16,3 @@ A complete machine learning web application built using Python and Streamlit tha
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the application: `streamlit run app.py`
-3.
